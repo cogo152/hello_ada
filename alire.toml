@@ -1,0 +1,12 @@
+name = "hello_ada"
+description = ""
+version = "0.1.0-dev"
+
+authors = ["g"]
+maintainers = ["g <adada@aaa.com>"]
+maintainers-logins = ["c"]
+licenses = "MIT OR Apache-2.0 WITH LLVM-exception"
+website = ""
+tags = []
+
+executables = ["hello_ada"]
